@@ -1,5 +1,6 @@
 import Footer from "./components/Footer"
 import Hero from "./components/Hero"
+import Highlights from "./components/Highlight"
 import Navbar from "./components/Navbar"
 import ProductViewer from "./components/ProductViewer"
 import Showcase from "./components/Showcase"
@@ -15,6 +16,7 @@ const App = () => {
     <Hero/>
     <ProductViewer/>
     <Showcase/>
+    <Highlights/>
     <Footer/>
     </>
   )

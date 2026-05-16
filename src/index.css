@@ -111,7 +111,7 @@ body {
   }
 
   #hero {
-    @apply h-fit lg:h-[80vh] col-center mt-40 lg:mt-20 2xl:mt-[7vh];
+    @apply h-fit lg:h-[95vh] col-center mt-40 lg:mt-20 2xl:mt-[7vh];
 
     div {
       @apply relative z-10 col-center lg:translate-y-16;
@@ -174,7 +174,7 @@ body {
     }
 
     #canvas {
-      @apply !w-full !h-[80vh] lg: !h-dvh relative z-40;
+      @apply !w-full !h-[80vh] lg:!h-dvh relative z-40;
     }
   }
 
